@@ -4,6 +4,7 @@ gggggggggggggggggggggggggggggggggg
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 hhhhhhhhhhhhhhhhh
+<<<<<<< HEAD
 mmmmmmmmmmmmmmmmmmmmmmmmmm
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
@@ -11,3 +12,5 @@ mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+=======
+>>>>>>> parent of 04fcf16... branching test
